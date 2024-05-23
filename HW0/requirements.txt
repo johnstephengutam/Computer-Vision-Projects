@@ -1,0 +1,7 @@
+notebook
+numpy
+matplotlib
+scipy
+scikit-image
+ortools
+opencv-python
